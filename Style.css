@@ -1,0 +1,58 @@
+html body{
+    background-color: lightgrey;
+    margin: 0px;
+    padding: 0px;
+}
+.sp{
+    text-align: center;
+}
+.top {
+   background-color: rgb(155, 0, 0);
+}
+.menu {
+    color: rgb(255, 255, 255);
+    padding: 12px;
+    display: inline-block;
+    text-decoration: none;
+}
+.brand {
+    font-size: 19px;
+    font-weight: 600;
+}
+.topp {
+    background-color: black;
+    text-align: left;
+}
+
+
+img{
+    padding-left: 0px;
+    margin-left: 0px;
+}
+.box{
+    background-color: rgb(155, 0, 0);
+    padding: 200px;
+    margin: 200px;
+}
+.img {
+    width: 80%;
+}
+.click {
+    color: black;
+    background-color: darkgrey;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+.h1 {
+    color: rgb(224, 212, 212);font-style: italic;
+    text-decoration: none;
+}
+.p1 {
+    color: rgb(218, 212, 212);font-style: italic;
+    text-decoration: none;
+}
+.main-content {
+    max-width: 1500px;
+    margin: auto;
+}
